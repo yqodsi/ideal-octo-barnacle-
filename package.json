@@ -12,6 +12,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.22",
     "@supabase/supabase-js": "^2.43.4",
     "@unovis/ts": "^1.4.1",
     "@unovis/vue": "^1.4.1",

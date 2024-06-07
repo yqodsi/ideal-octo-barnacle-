@@ -1,7 +1,5 @@
 <template>
   <div>
-    dfdfdfd
-    <!-- create basic layout -->
     <header>
       <h1>Second Layout</h1>
     </header>
